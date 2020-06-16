@@ -94,7 +94,7 @@ let resumeData = {
         "skillname":"php / laravel "
       },
       {
-        "skillname":"c / c++ / c#"
+        "skillname":"c / c++ / c# / java ,J2EE " 
       },
       {
         "skillname":"Python / qt"
